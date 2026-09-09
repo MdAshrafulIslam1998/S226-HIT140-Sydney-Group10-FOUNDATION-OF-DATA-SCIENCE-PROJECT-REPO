@@ -1,0 +1,209 @@
+﻿game_id,team,exit_round,is_group_stage,shots_on_target,total_shots,shot_accuracy
+02f675d6,Czechia,Group Stage,True,3,14,0.2143
+02f675d6,South Africa,Round of 32,True,4,17,0.2353
+0ef71ab6,Brazil,Round of 16,True,9,21,0.4286
+0ef71ab6,Scotland,Group Stage,True,5,14,0.3571
+0fcac1d8,Saudi Arabia,Group Stage,True,1,3,0.3333
+0fcac1d8,Spain,Semi-final or later,True,8,22,0.3636
+140e19d9,Austria,Round of 32,True,4,11,0.3636
+140e19d9,Jordan,Group Stage,True,4,11,0.3636
+17eda16a,Iraq,Group Stage,True,1,11,0.0909
+17eda16a,Norway,Quarter-final,True,5,12,0.4167
+199a57aa,Canada,Round of 16,True,7,13,0.5385
+199a57aa,Switzerland,Quarter-final,True,4,6,0.6667
+1bcdcfc8,France,Semi-final or later,True,9,18,0.5
+1bcdcfc8,Norway,Quarter-final,True,4,10,0.4
+2307866a,Haiti,Group Stage,True,2,9,0.2222
+2307866a,Morocco,Quarter-final,True,11,22,0.5
+2712fac7,France,Semi-final or later,True,8,11,0.7273
+2712fac7,Senegal,Round of 32,True,2,6,0.3333
+27695f4a,Japan,Round of 32,True,5,11,0.4545
+27695f4a,Tunisia,Group Stage,True,0,2,0.0
+288fba4d,Austria,Round of 32,False,0,5,0.0
+288fba4d,Spain,Semi-final or later,False,10,23,0.4348
+28a6d770,Croatia,Round of 32,True,2,6,0.3333
+28a6d770,Panama,Group Stage,True,1,8,0.125
+2a469714,Morocco,Quarter-final,True,2,12,0.1667
+2a469714,Scotland,Group Stage,True,0,6,0.0
+311661a5,Korea Republic,Group Stage,True,3,8,0.375
+311661a5,South Africa,Round of 32,True,4,13,0.3077
+31f1f241,France,Semi-final or later,True,5,19,0.2632
+31f1f241,Iraq,Group Stage,True,0,4,0.0
+3329959e,Colombia,Round of 16,True,4,15,0.2667
+3329959e,Uzbekistan,Group Stage,True,2,8,0.25
+358fd0fc,Türkiye,Group Stage,True,3,9,0.3333
+358fd0fc,United States,Round of 16,True,7,18,0.3889
+3ae43552,Argentina,Semi-final or later,False,7,22,0.3182
+3ae43552,Switzerland,Quarter-final,False,5,11,0.4545
+3c1e3816,Mexico,Round of 16,True,4,16,0.25
+3c1e3816,South Africa,Round of 32,True,2,3,0.6667
+3ccca695,Australia,Round of 32,False,1,16,0.0625
+3ccca695,Egypt,Round of 16,False,3,14,0.2143
+3dac8725,England,Semi-final or later,True,3,19,0.1579
+3dac8725,Ghana,Round of 32,True,1,2,0.5
+3ed2ad56,England,Semi-final or later,False,5,6,0.8333
+3ed2ad56,Mexico,Round of 16,False,5,20,0.25
+43fec9f3,Côte d'Ivoire,Round of 32,True,2,9,0.2222
+43fec9f3,Germany,Round of 32,True,7,16,0.4375
+47dbfe60,Argentina,Semi-final or later,False,5,15,0.3333
+47dbfe60,England,Semi-final or later,False,2,5,0.4
+48cce92a,Brazil,Round of 16,True,5,8,0.625
+48cce92a,Haiti,Group Stage,True,3,7,0.4286
+48dd64d5,Spain,Semi-final or later,True,1,6,0.1667
+48dd64d5,Uruguay,Group Stage,True,1,5,0.2
+4a03a810,England,Semi-final or later,False,8,14,0.5714
+4a03a810,Norway,Quarter-final,False,4,13,0.3077
+4ff2342a,Australia,Round of 32,True,4,9,0.4444
+4ff2342a,Türkiye,Group Stage,True,8,30,0.2667
+50a429da,Korea Republic,Group Stage,True,2,9,0.2222
+50a429da,Mexico,Round of 16,True,4,8,0.5
+5134daab,Bosnia and Herzegovina,Round of 32,True,3,5,0.6
+5134daab,Switzerland,Quarter-final,True,7,13,0.5385
+520a5665,Congo DR,Round of 32,False,2,7,0.2857
+520a5665,England,Semi-final or later,False,7,16,0.4375
+580cb771,Australia,Round of 32,True,2,5,0.4
+580cb771,United States,Round of 16,True,2,10,0.2
+58289f35,Brazil,Round of 16,False,7,19,0.3684
+58289f35,Japan,Round of 32,False,2,5,0.4
+583c1910,Iraq,Group Stage,True,1,6,0.1667
+583c1910,Senegal,Round of 32,True,12,28,0.4286
+58580af9,Qatar,Group Stage,True,4,7,0.5714
+58580af9,Switzerland,Quarter-final,True,7,26,0.2692
+58c3106f,Haiti,Group Stage,True,2,15,0.1333
+58c3106f,Scotland,Group Stage,True,2,9,0.2222
+5ec98037,Argentina,Semi-final or later,True,4,12,0.3333
+5ec98037,Jordan,Group Stage,True,1,5,0.2
+5eca3d3a,Ecuador,Round of 32,False,1,7,0.1429
+5eca3d3a,Mexico,Round of 16,False,3,15,0.2
+5f18a385,Belgium,Quarter-final,True,3,15,0.2
+5f18a385,Egypt,Round of 16,True,3,14,0.2143
+60dedabb,Canada,Round of 16,True,10,32,0.3125
+60dedabb,Qatar,Group Stage,True,0,2,0.0
+6287f9c7,Congo DR,Round of 32,True,4,19,0.2105
+6287f9c7,Uzbekistan,Group Stage,True,1,3,0.3333
+63b14e23,Netherlands,Round of 32,True,7,20,0.35
+63b14e23,Tunisia,Group Stage,True,4,10,0.4
+675b328b,Argentina,Semi-final or later,False,10,22,0.4545
+675b328b,Cabo Verde,Round of 32,False,5,16,0.3125
+6df52cfd,Sweden,Round of 32,True,7,13,0.5385
+6df52cfd,Tunisia,Group Stage,True,2,6,0.3333
+72d993fd,Brazil,Round of 16,True,5,12,0.4167
+72d993fd,Morocco,Quarter-final,True,3,14,0.2143
+7382111b,Norway,Quarter-final,True,7,13,0.5385
+7382111b,Senegal,Round of 32,True,4,16,0.25
+79a8f8c8,Algeria,Round of 32,True,5,12,0.4167
+79a8f8c8,Austria,Round of 32,True,3,10,0.3
+816f4180,Netherlands,Round of 32,True,7,10,0.7
+816f4180,Sweden,Round of 32,True,8,16,0.5
+82209c60,Paraguay,Round of 16,True,2,7,0.2857
+82209c60,Türkiye,Group Stage,True,5,32,0.1562
+82de5964,Saudi Arabia,Group Stage,True,3,7,0.4286
+82de5964,Uruguay,Group Stage,True,10,27,0.3704
+87717b95,Croatia,Round of 32,False,6,13,0.4615
+87717b95,Portugal,Round of 16,False,3,15,0.2
+881ab666,Algeria,Round of 32,True,0,7,0.0
+881ab666,Argentina,Semi-final or later,True,6,10,0.6
+89835aff,Curaçao,Group Stage,True,2,11,0.1818
+89835aff,Côte d'Ivoire,Round of 32,True,3,7,0.4286
+89aea7f3,Bosnia and Herzegovina,Round of 32,False,3,10,0.3
+89aea7f3,United States,Round of 16,False,2,8,0.25
+89da405b,Germany,Round of 32,False,6,21,0.2857
+89da405b,Paraguay,Round of 16,False,3,7,0.4286
+8ad9833e,France,Semi-final or later,False,5,15,0.3333
+8ad9833e,Paraguay,Round of 16,False,0,5,0.0
+8d6d70b6,Cabo Verde,Round of 32,True,2,15,0.1333
+8d6d70b6,Saudi Arabia,Group Stage,True,3,7,0.4286
+904bbbdc,Portugal,Round of 16,True,9,17,0.5294
+904bbbdc,Uzbekistan,Group Stage,True,2,7,0.2857
+9575513b,France,Semi-final or later,False,3,10,0.3
+9575513b,Spain,Semi-final or later,False,2,10,0.2
+994aa701,Japan,Round of 32,True,3,8,0.375
+994aa701,Sweden,Round of 32,True,5,11,0.4545
+99ef3f64,Argentina,Semi-final or later,False,7,19,0.3684
+99ef3f64,Egypt,Round of 16,False,2,5,0.4
+9f71086a,Ghana,Round of 32,True,2,8,0.25
+9f71086a,Panama,Group Stage,True,4,11,0.3636
+a039dc32,IR Iran,Group Stage,True,4,17,0.2353
+a039dc32,New Zealand,Group Stage,True,8,14,0.5714
+a051b2ea,Croatia,Round of 32,True,4,8,0.5
+a051b2ea,Ghana,Round of 32,True,1,6,0.1667
+a2c54ed9,Curaçao,Group Stage,True,2,8,0.25
+a2c54ed9,Germany,Round of 32,True,12,26,0.4615
+a59cb59d,Bosnia and Herzegovina,Round of 32,True,5,14,0.3571
+a59cb59d,Qatar,Group Stage,True,3,9,0.3333
+aba06a2a,England,Semi-final or later,False,11,19,0.5789
+aba06a2a,France,Semi-final or later,False,9,19,0.4737
+ac3ca9ea,Belgium,Quarter-final,False,7,15,0.4667
+ac3ca9ea,United States,Round of 16,False,2,7,0.2857
+acc93b55,Egypt,Round of 16,True,3,15,0.2
+acc93b55,IR Iran,Group Stage,True,4,13,0.3077
+b2f307a9,Algeria,Round of 32,False,2,8,0.25
+b2f307a9,Switzerland,Quarter-final,False,5,11,0.4545
+b709bfa1,Canada,Round of 16,False,3,10,0.3
+b709bfa1,Morocco,Quarter-final,False,4,5,0.8
+bc0e570b,Cabo Verde,Round of 32,True,4,12,0.3333
+bc0e570b,Uruguay,Group Stage,True,2,17,0.1176
+bebca560,Morocco,Quarter-final,False,5,11,0.4545
+bebca560,Netherlands,Round of 32,False,2,6,0.3333
+bedbfe84,Argentina,Semi-final or later,False,0,2,0.0
+bedbfe84,Spain,Semi-final or later,False,12,20,0.6
+beebb792,Czechia,Group Stage,True,4,7,0.5714
+beebb792,Korea Republic,Group Stage,True,6,15,0.4
+c069f408,France,Semi-final or later,False,8,22,0.3636
+c069f408,Morocco,Quarter-final,False,1,5,0.2
+c100284d,Cabo Verde,Round of 32,True,1,6,0.1667
+c100284d,Spain,Semi-final or later,True,7,27,0.2593
+c4104726,Canada,Round of 16,False,7,12,0.5833
+c4104726,South Africa,Round of 32,False,1,6,0.1667
+c42ce3be,Croatia,Round of 32,True,5,10,0.5
+c42ce3be,England,Semi-final or later,True,11,22,0.5
+c8fa19f5,Australia,Round of 32,True,5,12,0.4167
+c8fa19f5,Paraguay,Round of 16,True,2,7,0.2857
+c95830e9,Congo DR,Round of 32,True,2,8,0.25
+c95830e9,Portugal,Round of 16,True,1,7,0.1429
+c96f559b,Belgium,Quarter-final,True,7,23,0.3043
+c96f559b,IR Iran,Group Stage,True,3,7,0.4286
+ca7eecdb,Curaçao,Group Stage,True,3,10,0.3
+ca7eecdb,Ecuador,Round of 32,True,15,27,0.5556
+cc4ebc5b,Ecuador,Round of 32,True,3,7,0.4286
+cc4ebc5b,Germany,Round of 32,True,3,11,0.2727
+cf968279,Belgium,Quarter-final,False,5,19,0.2632
+cf968279,Senegal,Round of 32,False,5,19,0.2632
+d280258e,Côte d'Ivoire,Round of 32,False,5,14,0.3571
+d280258e,Norway,Quarter-final,False,4,9,0.4444
+d4ac0040,Colombia,Round of 16,False,8,20,0.4
+d4ac0040,Ghana,Round of 32,False,0,8,0.0
+d5699a16,Egypt,Round of 16,True,7,19,0.3684
+d5699a16,New Zealand,Group Stage,True,5,11,0.4545
+d7e30dec,England,Semi-final or later,True,6,17,0.3529
+d7e30dec,Panama,Group Stage,True,2,13,0.1538
+da47849b,France,Semi-final or later,False,12,25,0.48
+da47849b,Sweden,Round of 32,False,3,8,0.375
+dabafdc1,Brazil,Round of 16,False,4,14,0.2857
+dabafdc1,Norway,Quarter-final,False,5,9,0.5556
+ded93e98,Colombia,Round of 16,True,6,24,0.25
+ded93e98,Portugal,Round of 16,True,2,13,0.1538
+e7d8a062,Argentina,Semi-final or later,True,5,12,0.4167
+e7d8a062,Austria,Round of 32,True,1,6,0.1667
+eb19002c,Algeria,Round of 32,True,8,17,0.4706
+eb19002c,Jordan,Group Stage,True,4,8,0.5
+ed14068b,Belgium,Quarter-final,False,2,5,0.4
+ed14068b,Spain,Semi-final or later,False,8,17,0.4706
+f26b468c,Czechia,Group Stage,True,1,13,0.0769
+f26b468c,Mexico,Round of 16,True,5,11,0.4545
+f2e8741b,Colombia,Round of 16,True,9,20,0.45
+f2e8741b,Congo DR,Round of 32,True,1,7,0.1429
+f527457d,Belgium,Quarter-final,True,10,35,0.2857
+f527457d,New Zealand,Group Stage,True,2,6,0.3333
+f6c0596c,Paraguay,Round of 16,True,1,9,0.1111
+f6c0596c,United States,Round of 16,True,6,16,0.375
+f6d2bd84,Bosnia and Herzegovina,Round of 32,True,3,8,0.375
+f6d2bd84,Canada,Round of 16,True,4,13,0.3077
+f8ee7eef,Côte d'Ivoire,Round of 32,True,4,15,0.2667
+f8ee7eef,Ecuador,Round of 32,True,1,12,0.0833
+faa0cb98,Japan,Round of 32,True,3,10,0.3
+faa0cb98,Netherlands,Round of 32,True,6,10,0.6
+fb7171eb,Colombia,Round of 16,False,3,15,0.2
+fb7171eb,Switzerland,Quarter-final,False,2,7,0.2857
+fe9daeb3,Portugal,Round of 16,False,2,10,0.2
+fe9daeb3,Spain,Semi-final or later,False,6,15,0.4
